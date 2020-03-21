@@ -1,2 +1,2 @@
 ### React-Applications
-Small Projects for Udemy Course : https://www.udemy.com/course/react-redux/
+Small Projects done by me for Udemy Course : https://www.udemy.com/course/react-redux/
